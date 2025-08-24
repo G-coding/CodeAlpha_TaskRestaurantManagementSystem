@@ -18,29 +18,6 @@
   Backend: Django + Django REST Framework (microservices)
   Database: MySQL
 
-📂 Project Layout
-
-    restaurant-dashboard/
-  │
-  ├── backend/
-  │   ├── menu_service/
-  │   ├── order_service/
-  │   ├── reservation_service/
-  │   ├── inventory_service/
-  │   └── ...
-  │
-  ├── frontend/  (React app)
-  │   ├── src/
-  │   │   ├── components/
-  │   │   │   ├── MenuItems.js
-  │   │   │   ├── Orders.js
-  │   │   │   ├── Reservations.js
-  │   │   │   └── Inventory.js
-  │   │   └── App.js
-  │   └── package.json
-  │
-  └── README.md
-
 ⚙️ Installation
 
   1️⃣ Clone Repository
